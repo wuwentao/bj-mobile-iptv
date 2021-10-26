@@ -27,7 +27,7 @@ http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/inde
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="[高清]央视", CCTV-13[高清]
 http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[高清]央视;动画", CCTV-14[高清]
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="[高清]央视;少儿", CCTV-14[高清]
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="[高清]央视", CCTV-15[高清]
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/index.m3u8
@@ -78,7 +78,7 @@ http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/index
 http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/index.m3u8
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="[高清]北京", 北京青年[高清]
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="[高清]北京;动画", 北京卡酷少儿[高清]
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="[高清]北京;少儿", 北京卡酷少儿[高清]
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="[高清]北京", 北京冬奥纪实[高清]
 http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/index.m3u8
@@ -89,7 +89,7 @@ http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/index
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV", 北京IPTV大健康[高清]
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226556/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV;动画", 北京IPTV淘Baby[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV;少儿", 北京IPTV淘Baby[高清]
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]北京IPTV", 北京IPTV淘电影[高清]
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226552/index.m3u8
@@ -119,7 +119,7 @@ http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/index
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]地方", 黑莓电竞[高清]
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]地方;动画", 黑莓动画[高清]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]地方;少儿", 黑莓动画[高清]
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225914/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="[高清]地方", 黑莓电影[高清]
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225927/index.m3u8
@@ -201,7 +201,7 @@ http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225869/index
 http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226447/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226446/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视;动画",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视;少儿",CCTV-14
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226445/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
 http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226444/index.m3u8
@@ -298,13 +298,13 @@ http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226537/inde
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226557/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",环球购物
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方;动画",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方;少儿",嘉佳卡通
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226539/index.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方;动画",优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方;少儿",优漫卡通
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226420/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",山东教育卫视
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221225908/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="地方;动画",上海哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="地方;少儿",上海哈哈炫动
 http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226421/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",聚鲨环球精选
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8

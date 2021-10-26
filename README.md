@@ -33,5 +33,10 @@ Beijing Mobile IPTV m3u playlist
 
 # 参考
 
-- 台标及EPG电子节目单：http://epg.51zmt.top:8000/
+台标及EPG电子节目单：http://epg.51zmt.top:8000/
+
+# 北京联通IPTV播放列表
+
+https://github.com/wuwentao/bj-unicom-iptv
+
 

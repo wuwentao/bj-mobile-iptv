@@ -1,6 +1,12 @@
 # bj-mobile-iptv
 Beijing Mobile IPTV m3u playlist
 
+# 节目源文件说明： 
+
+- 只需要下载[bj-mobile-iptv.m3u](https://github.com/wuwentao/bj-mobile-iptv/blob/master/bj_mobile_iptv.m3u)文件即可使用，播放器打开该文件既可自动导入所有频道信息
+- 原始节目直播源也一并保存为txt文件存放： [bj-mobile-iptv-origin.txt](https://github.com/wuwentao/bj-mobile-iptv/blob/master/bj-mobile-iptv-origin.txt)
+- 直播源地址： https://www.right.com.cn/forum/thread-6048945-1-1.html
+
 # 节目源更新、修改、维护：
 节目源失效，新增，变化，可提交[issue](https://github.com/wuwentao/bj-mobile-iptv/issues/new)反馈变化
 或提交merge request,共同维护与更新准确的节目源列表
@@ -25,8 +31,6 @@ Beijing Mobile IPTV m3u playlist
 
 
 # 参考
-
-- 直播源地址： https://www.right.com.cn/forum/thread-6048945-1-1.html
 
 - 台标及EPG电子节目单：http://epg.51zmt.top:8000/
 

@@ -5,7 +5,7 @@ Beijing Mobile IPTV m3u playlist
 
 - 只需要下载[bj-mobile-iptv.m3u](https://github.com/wuwentao/bj-mobile-iptv/blob/master/bj_mobile_iptv.m3u)文件即可使用，播放器打开该文件既可自动导入所有频道信息
 - 原始节目直播源也一并保存为txt文件存放： [bj-mobile-iptv-origin.txt](https://github.com/wuwentao/bj-mobile-iptv/blob/master/bj-mobile-iptv-origin.txt)
-- 直播源地址： https://www.right.com.cn/forum/thread-6048945-1-1.html
+- 直播源地址： https://www.right.com.cn/forum/forum-182-1.html
 - 已使用北京移动光纤宽带网络验证当前所有节目源有效并可流畅播放(2021.10.26)
 
 # 节目源更新、修改、维护：

@@ -71,18 +71,19 @@ http://111.13.42.8/PLTV/88888888/224/3221225942/1.m3u8
 http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8
 
 
-
-#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="[高清]北京", 北京文艺[高清]
-http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/index.m3u8
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="[高清]北京", 北京财经[高清]
+http://111.13.42.12/PLTV/88888888/224/3221226560/1.m3u8
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV科技" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="[高清]北京", 北京科技[高清]
+http://111.13.42.43/PLTV/88888888/224/3221226559/1.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="[高清]北京", 北京影视[高清]
-http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226486/index.m3u8
+http://111.13.42.10/PLTV/88888888/224/3221226486/1.m3u8
 #EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="[高清]北京", 北京青年[高清]
-http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226562/index.m3u8
+http://111.13.42.10/PLTV/88888888/224/3221226562/1.m3u8
 #EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="[高清]北京", 北京新闻[高清]
 http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/index.m3u8
 
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="[高清]北京;少儿", 北京卡酷少儿[高清]
-http://39.134.135.125/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/index.m3u8
+http://111.13.42.10/PLTV/88888888/224/3221226558/1.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="[高清]北京", 北京冬奥纪实[高清]
 http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/index.m3u8
 

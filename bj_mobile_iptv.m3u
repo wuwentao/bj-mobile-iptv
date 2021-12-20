@@ -84,6 +84,8 @@ http://39.134.135.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226437/index
 
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="[高清]北京;少儿", 北京卡酷少儿[高清]
 http://111.13.42.10/PLTV/88888888/224/3221226558/1.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="黑莓动画" tvg-logo="" group-title="[高清]北京;少儿", 黑莓动画[高清]
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=Wz9PzXqiHTPm9nnfBNN9qYnjFx%2FlYchqhY7S6bSpOL2PtEbjPb9jhieBCtTUAr9dNpJ%2B3fKalNYfmH%2BEaYo8Rb1B0UFe79pybuMPoFbNny31VyCEXm3rWPAI290gZZpDfDQqOgmokKjty183mZr2VA%3D%3D%3A20180916203336%2C60D21CD359DA%2C124.129.68.31%2C20180916203336%2C10000100000000050000000000544179%2C6FC99DF6C0A5162BBF2A8A4B2D2DCDC7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="[高清]北京", 北京冬奥纪实[高清]
 http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/index.m3u8
 

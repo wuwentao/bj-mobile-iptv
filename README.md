@@ -28,13 +28,22 @@ Beijing Mobile IPTV m3u playlist
 北京移动宽带用户可以直接下载列表播放节目，无线额外设置
 如需使用udpxy组播转单播，可参考：https://github.com/wuwentao/bj-unicom-iptv
 
+# 北京联通IPTV播放列表
+
+https://github.com/wuwentao/bj-unicom-iptv
+
+# 北京电信IPTV播放列表
+
+https://github.com/wuwentao/bj-telecom-iptv
+
+# 北京移动IPTV播放列表
+
+https://github.com/wuwentao/bj-mobile-iptv
+
 
 # 参考
 
 台标及EPG电子节目单：http://epg.51zmt.top:8000/
 
-# 北京联通IPTV播放列表
-
-https://github.com/wuwentao/bj-unicom-iptv
 
 
